@@ -1,0 +1,14 @@
+{
+  "blogposts": [
+    {
+      "title": "Pakistan",
+      "content": "Pakistan, Officially the Islamic Republic of the Pakistan, is a country in South Asia. It is the world's fifths most populous country, with a population exceeding 225.2 million, and has the world's seconds largest Muslim population.\n\nPakistan is the 33rd-largest country by area, spanning 881913 square kilometers.",
+      "id": 1
+    },
+    {
+      "title": "India",
+      "content": "India is a country in South Asia.",
+      "id": 2
+    }
+  ]
+}
